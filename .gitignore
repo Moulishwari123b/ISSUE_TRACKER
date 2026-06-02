@@ -1,27 +1,10 @@
-# Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual Environment
 .venv/
 venv/
-env/
-
-# Django
-db.sqlite3
-media/uploads/
-
-# React
 node_modules/
 build/
 dist/
-
-# IDE
+db.sqlite3
 .vscode/
 .idea/
-
-# OS
-.DS_Store
-Thumbs.db
